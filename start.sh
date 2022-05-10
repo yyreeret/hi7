@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=8ac1b785-b77e-4049-be12-f7f7aa30f80d
+AUUID=86f50258-cc2f-4306-80e3-920aa6c48f4a
 CADDYIndexPage=https://github.com/gere456tesop/fork-music/archive/refs/heads/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
